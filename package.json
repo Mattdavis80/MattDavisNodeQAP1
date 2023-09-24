@@ -1,0 +1,19 @@
+{
+  "name": "mattdavisnodeqap1",
+  "version": "1.0.0",
+  "description": "QAP1 - Introduction to Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mattdavis80/MattDavisNodeQAP1.git"
+  },
+  "author": "Matt Davis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mattdavis80/MattDavisNodeQAP1/issues"
+  },
+  "homepage": "https://github.com/Mattdavis80/MattDavisNodeQAP1#readme"
+}
