@@ -3,7 +3,7 @@
 // Author - Matt Davis
 // Last updated: Sept 24th, 2023
 
-const url = require("url"); // Require statement to import url module from Node.js
+const url = require("url"); // Require method to import url module from Node.js
 
 // Here is an example string which we will use to showcase how the url module works in Node.js
 const urlString = "https://www.qap1example.com/example?id=123&page=99";
